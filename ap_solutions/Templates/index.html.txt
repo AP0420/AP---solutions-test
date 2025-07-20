@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AP Solutions</title>
+</head>
+<body>
+  <h1>Welcome to AP Solutions</h1>
+  <p>This is your test home page.</p>
+</body>
+</html>
